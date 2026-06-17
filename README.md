@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2574-left-and-right-sum-differences) |
+## String
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
