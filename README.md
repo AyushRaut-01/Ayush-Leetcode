@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3614-process-string-with-special-operations-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
