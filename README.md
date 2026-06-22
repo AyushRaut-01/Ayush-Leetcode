@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
@@ -35,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
