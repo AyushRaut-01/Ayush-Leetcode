@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0213-house-robber-ii) |
 | [1288-remove-covered-intervals](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
