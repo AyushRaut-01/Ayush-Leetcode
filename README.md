@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1288-remove-covered-intervals](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -83,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
