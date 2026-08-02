@@ -1,21 +1,25 @@
 class Solution {
+
+    Integer[][] memo;
+
     public boolean stoneGame(int[] piles) {
-        int sum=0;
-        int n=piles.length-1;
-        for(int i=0;i<piles.length;i++){
-            sum+=piles[i];
-        }
-        sum/=2;
-        return dp(piles,sum,piles[0],1,n) || dp(piles,sum,piles[n],0,n-1);
-    }
-    public static boolean dp(int[] piles, int trg, int crr, int i, int j) {
-    if (crr > trg) return true;
-    if (i > j) return false;
+        int n = piles.length;
+        memo = new Integer[n][n];
 
-    if (piles[i] > piles[j]) {
-        return dp(piles, trg, crr + piles[i], i + 1, j);
+        return solve(piles, 0, n - 1) > 0;
     }
 
-    return dp(piles, trg, crr + piles[j], i, j - 1);
-}
+    private int solve(int[] piles, int i, int j) {
+
+        if (i == j)
+            return piles[i];
+
+        if (memo[i][j] != null)
+            return memo[i][j];
+
+        int takeLeft = piles[i] - solve(piles, i + 1, j);
+        int takeRight = piles[j] - solve(piles, i, j - 1);
+
+        return memo[i][j] = Math.max(takeLeft, takeRight);
+    }
 }
