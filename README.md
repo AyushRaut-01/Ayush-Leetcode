@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
