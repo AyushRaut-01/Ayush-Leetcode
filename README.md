@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -117,4 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
