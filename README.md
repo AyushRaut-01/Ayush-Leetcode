@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1510-stone-game-iv) |
 ## Matrix
 |  |
 | ------- |
@@ -128,16 +130,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -150,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3310-remove-methods-from-project) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
