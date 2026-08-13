@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3731-find-missing-elements](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3731-find-missing-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
