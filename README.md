@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
