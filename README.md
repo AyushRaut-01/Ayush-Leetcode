@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2574-left-and-right-sum-differences](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
