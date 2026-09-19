@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0835-image-overlap](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0063-unique-paths-ii) |
+| [0835-image-overlap](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/0835-image-overlap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
