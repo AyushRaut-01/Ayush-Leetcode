@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AyushRaut-01/Ayush-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
